@@ -1,1 +1,2 @@
 this is mine new git file 
+Now I'm making other changes to mine file
